@@ -1,0 +1,125 @@
+
+@media (max-width: 1350px){
+    .discount{
+        width: 80%;
+    }
+    .h5{
+        font-size: 15px;
+    }
+}
+@media (max-width: 1072px){
+    #img{
+        margin-left: 10px;
+    }
+    .search{
+        width: 30%!important;
+        
+    }
+    .item img{
+        width: 40%;
+    }
+    .col{
+        width: 30%;
+    }
+    .prod{
+        width: 50%;
+    }
+    .h5{
+        font-size: 15px;
+    }
+}
+@media (max-width: 902px){
+    .col3{
+        display: none!important;
+    }
+    .col{
+        width: 40%!important;
+    }
+}
+@media (max-width: 854px){
+    #img{
+        display: none;
+    }
+    .search{
+        width: 40%!important;
+        margin-right: -50px!important;
+        padding: -20px!important;
+        
+    }
+    ul li{
+        font-size: 12px;
+    }
+    .discount{
+        width: 85%;
+    }
+    .item{
+        margin: 5px;
+    }
+}
+@media (max-width: 700px){
+    .discount{
+        width: 100%;
+    }
+    .col{
+        width: 44%!important;
+    }
+}
+@media (max-width: 580px){
+    input, .searching{
+        display: none;
+    }
+    .col{
+        width: 60%!important;
+        margin-bottom: 20px!important;
+        margin: auto;
+        margin-right:100px;
+    }
+    .quick_deals{
+        margin-top: 0px!important;
+    }
+    #prod{
+        height: 10vh;
+    }
+    .row{
+        margin-top: 20px;
+    }
+    .h4{
+        margin-right: -50px!important;
+        width: 200%!important;
+    }
+    .swag{
+        margin-right: 0px;
+    }
+    .menu{
+        margin-left: -30px!important;
+    }
+    .item3{
+        display: none!important;
+    }
+    .col3{
+        display: block!important;
+    }
+    
+}
+@media (max-width: 475px){
+    ul li{
+        font-size: 9px;
+    }   
+    .col{
+        width: 80%!important;
+    } 
+    .col{
+        width: 90%!important;
+        margin-right:8px;
+    }
+}
+@media (max-width: 400px){
+    .image{
+        margin-left: 2px!important;
+    }
+    .deal{
+        margin-left: -5px!important;
+    }
+    
+    
+}

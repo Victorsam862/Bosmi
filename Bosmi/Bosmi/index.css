@@ -1,0 +1,111 @@
+.container-fluid{
+    background-color: rgb(113, 113, 113);
+    padding: 0px;
+    color: white;
+}
+#logo{
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+}
+#img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    margin-left: 20px;
+}
+input{
+    width: 100%;
+    border-radius: 20px;
+    border: 1.5px solid;
+    height: 4vh;
+}
+.head{
+    background-color: rgb(193, 192, 192);
+    padding: 10px;
+    align-items: center;
+}
+.searching{
+    font-size: 20px;
+    margin-left: -53px;
+}
+.search{
+    height: 4vh;
+    width: 40%;
+    margin: auto;
+    margin-right: 0px;
+}
+ul li {
+    list-style: none;
+    font-weight: bold;
+    margin: 10px 0px;
+    padding: 3px 8px;
+    border-radius: 15px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+ul li:hover{
+    background-color: rgb(193, 192, 192);
+}
+a:hover{
+    color: black;
+}
+.swag{
+    margin-right: 40px;
+}
+.item img{
+    width: 50%;
+}
+.item{
+    background-color: rgb(113, 113, 113);
+    margin: 15px;
+    border-radius: 10px;
+}
+.discount{
+    width: 60%;
+}
+.price{
+    width: 110%;
+    text-align: center;
+}
+.content{
+    background-color: rgb(141, 212, 34);
+    color: black;
+}
+input{
+    padding-left: 10px;
+}
+#prod{
+    height: 20vh;
+    width: 102%;
+    height: 10vh;
+}
+.product{
+    background-color: rgb(185, 180, 180);
+    border-radius: 15px;
+    margin-left: 30px;
+    text-align: center;
+}
+.strike{
+    text-decoration: line-through;
+}
+.menu{
+    padding-top: 15px!important;
+}
+.pd1, .pd2{
+    border: 7px ridge;
+    padding-top: 10px;
+    padding: 0px;
+}
+.col{
+    padding-bottom: 20px;
+    background-color: whitesmoke;
+    color: black;
+    border-radius: 0px;
+}
+.row{
+    background-color: rgb(185, 180, 180)!important;
+    width: 102.3%;
+}
